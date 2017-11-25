@@ -1,0 +1,7 @@
+25/11/2017 18:30:31 INFO  devpinoyLogger - Config properties loaded
+25/11/2017 18:30:31 INFO  devpinoyLogger - OR properties loaded
+25/11/2017 18:30:39 INFO  devpinoyLogger - Launching Firefox
+25/11/2017 18:30:42 INFO  devpinoyLogger - Navigating to : https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=Xe8YWoKiJpPy8AfVxIvgDg
+25/11/2017 18:30:43 INFO  devpinoyLogger - Clicking on an Element : Gmail_xpath
+25/11/2017 18:30:47 INFO  devpinoyLogger - Element found : Login_xpath
+25/11/2017 18:30:48 INFO  devpinoyLogger - Test execution completed !!!
