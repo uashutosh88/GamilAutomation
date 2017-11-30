@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Learning Framework" duration-ms="8268" started-at="2017-11-30T19:16:29Z" finished-at="2017-11-30T19:16:37Z">
+    <groups>
+    </groups>
+    <test name="Open Gmail Login Test" duration-ms="4463" started-at="2017-11-30T19:16:29Z" finished-at="2017-11-30T19:16:33Z">
+      <class name="testcases.OpenGmailTest">
+        <test-method status="PASS" signature="openGmailTest()[pri:0, instance:testcases.OpenGmailTest@44a7bfbc]" name="openGmailTest" duration-ms="4448" started-at="2017-12-01T00:46:29Z" finished-at="2017-12-01T00:46:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGmailTest -->
+      </class> <!-- testcases.OpenGmailTest -->
+    </test> <!-- Open Gmail Login Test -->
+    <test name="Login Gmail Test" duration-ms="3762" started-at="2017-11-30T19:16:33Z" finished-at="2017-11-30T19:16:37Z">
+      <class name="testcases.LoginGmailTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.LoginGmailTest@34f7cfd9]" name="setUp" is-config="true" duration-ms="9859" started-at="2017-12-01T00:46:19Z" finished-at="2017-12-01T00:46:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="doLogin(java.lang.String, java.lang.String)[pri:0, instance:testcases.LoginGmailTest@34f7cfd9]" name="doLogin" duration-ms="3675" started-at="2017-12-01T00:46:33Z" data-provider="getData" finished-at="2017-12-01T00:46:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kietmca14@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456ABC]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.LoginGmailTest@34f7cfd9]" name="tearDown" is-config="true" duration-ms="542" started-at="2017-12-01T00:46:37Z" finished-at="2017-12-01T00:46:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.LoginGmailTest -->
+    </test> <!-- Login Gmail Test -->
+  </suite> <!-- Learning Framework -->
+</testng-results>

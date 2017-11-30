@@ -87,6 +87,23 @@ public class TestBase {
 		log.info("Typing in an Element : " + locator+" entered the value as : "+value);
 
 	}
+	
+	public void select(String locator, String value) {
+		if (locator.endsWith("_xpath")) {
+			dropdown = driver.findElement(By.xpath(OR.getProperty(locator)));
+		} else if (locator.endsWith("_css")) {
+			dropdown = driver.findElement(By.cssSelector(OR.getProperty(locator)));
+		} else if (locator.endsWith("_id")) {
+			dropdown = driver.findElement(By.id(OR.getProperty(locator)));
+		}
+		
+		Select select = new Select(dropdown);
+		select.selectByVisibleText(value);
+		
+		log.debug("Selecting the value from dropdown element : "+locator+" value select as : "+value);
+		
+		
+	}
 
 
 	@BeforeSuite
@@ -154,7 +171,9 @@ public class TestBase {
 	}
 
 	@AfterSuite
-	public void tearDown() {
+	public void tearDown() throws InterruptedException {
+		
+		Thread.sleep(5000L);
 
 		driver.quit();
 		log.info("Test execution completed !!!");

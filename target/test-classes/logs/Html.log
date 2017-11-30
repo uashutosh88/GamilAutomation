@@ -1,0 +1,301 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Log4J Log Messages</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Dec 01 00:25:16 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="devpinoyLogger category">devpinoyLogger</td>
+<td title="Message">Config properties loaded</td>
+</tr>
+
+<tr>
+<td>3</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="devpinoyLogger category">devpinoyLogger</td>
+<td title="Message">OR properties loaded</td>
+</tr>
+
+<tr>
+<td>7648</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="devpinoyLogger category">devpinoyLogger</td>
+<td title="Message">Launching Firefox</td>
+</tr>
+
+<tr>
+<td>9903</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="devpinoyLogger category">devpinoyLogger</td>
+<td title="Message">Navigating to : https://www.google.co.in/?gfe_rd=cr&amp;dcr=0&amp;ei=Xe8YWoKiJpPy8AfVxIvgDg</td>
+</tr>
+
+<tr>
+<td>10552</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="devpinoyLogger category">devpinoyLogger</td>
+<td title="Message">Clicking on an Element : Gmail_xpath</td>
+</tr>
+
+<tr>
+<td>15184</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="devpinoyLogger category">devpinoyLogger</td>
+<td title="Message">Element found : Login_xpath</td>
+</tr>
+
+<tr>
+<td>15768</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="devpinoyLogger category">devpinoyLogger</td>
+<td title="Message">Test execution completed !!!</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Log4J Log Messages</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Dec 01 00:46:18 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="devpinoyLogger category">devpinoyLogger</td>
+<td title="Message">Config properties loaded</td>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="devpinoyLogger category">devpinoyLogger</td>
+<td title="Message">OR properties loaded</td>
+</tr>
+
+<tr>
+<td>7297</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="devpinoyLogger category">devpinoyLogger</td>
+<td title="Message">Launching Firefox</td>
+</tr>
+
+<tr>
+<td>9584</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="devpinoyLogger category">devpinoyLogger</td>
+<td title="Message">Navigating to : https://www.google.co.in/?gfe_rd=cr&amp;dcr=0&amp;ei=Xe8YWoKiJpPy8AfVxIvgDg</td>
+</tr>
+
+<tr>
+<td>10137</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="devpinoyLogger category">devpinoyLogger</td>
+<td title="Message">Clicking on an Element : Gmail_xpath</td>
+</tr>
+
+<tr>
+<td>14300</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="devpinoyLogger category">devpinoyLogger</td>
+<td title="Message">Element found : Login_xpath</td>
+</tr>
+
+<tr>
+<td>14713</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="devpinoyLogger category">devpinoyLogger</td>
+<td title="Message">Typing in an Element : Email_xpath entered the value as : kietmca14@gmail.com</td>
+</tr>
+
+<tr>
+<td>15342</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="devpinoyLogger category">devpinoyLogger</td>
+<td title="Message">Clicking on an Element : NextAfterEmail_xpath</td>
+</tr>
+
+<tr>
+<td>17765</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="devpinoyLogger category">devpinoyLogger</td>
+<td title="Message">Typing in an Element : Password_xpath entered the value as : 123456ABC</td>
+</tr>
+
+<tr>
+<td>18111</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="devpinoyLogger category">devpinoyLogger</td>
+<td title="Message">Clicking on an Element : NextAfterPassword_xpath</td>
+</tr>
+
+<tr>
+<td>18689</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="devpinoyLogger category">devpinoyLogger</td>
+<td title="Message">Test execution completed !!!</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Log4J Log Messages</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Dec 01 00:48:22 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="devpinoyLogger category">devpinoyLogger</td>
+<td title="Message">Config properties loaded</td>
+</tr>
+
+<tr>
+<td>2</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="devpinoyLogger category">devpinoyLogger</td>
+<td title="Message">OR properties loaded</td>
+</tr>
+
+<tr>
+<td>6902</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="devpinoyLogger category">devpinoyLogger</td>
+<td title="Message">Launching Firefox</td>
+</tr>
+
+<tr>
+<td>9192</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="devpinoyLogger category">devpinoyLogger</td>
+<td title="Message">Navigating to : https://www.google.co.in/?gfe_rd=cr&amp;dcr=0&amp;ei=Xe8YWoKiJpPy8AfVxIvgDg</td>
+</tr>
+
+<tr>
+<td>9785</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="devpinoyLogger category">devpinoyLogger</td>
+<td title="Message">Clicking on an Element : Gmail_xpath</td>
+</tr>
+
+<tr>
+<td>14937</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="devpinoyLogger category">devpinoyLogger</td>
+<td title="Message">Element found : Login_xpath</td>
+</tr>
+
+<tr>
+<td>15314</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="devpinoyLogger category">devpinoyLogger</td>
+<td title="Message">Typing in an Element : Email_xpath entered the value as : kietmca14@gmail.com</td>
+</tr>
+
+<tr>
+<td>15996</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="devpinoyLogger category">devpinoyLogger</td>
+<td title="Message">Clicking on an Element : NextAfterEmail_xpath</td>
+</tr>
+
+<tr>
+<td>17879</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="devpinoyLogger category">devpinoyLogger</td>
+<td title="Message">Typing in an Element : Password_xpath entered the value as : 123456ABC</td>
+</tr>
+
+<tr>
+<td>18247</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="devpinoyLogger category">devpinoyLogger</td>
+<td title="Message">Clicking on an Element : NextAfterPassword_xpath</td>
+</tr>
+
+<tr>
+<td>23752</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="devpinoyLogger category">devpinoyLogger</td>
+<td title="Message">Test execution completed !!!</td>
+</tr>

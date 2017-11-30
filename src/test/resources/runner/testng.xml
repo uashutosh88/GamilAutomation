@@ -7,6 +7,12 @@
 		<class name="testcases.OpenGmailTest"/>
 		</classes>
 	</test> <!-- Test -->
+	
+	<test name="Login Gmail Test">
+		<classes>
+		<class name="testcases.LoginGmailTest"/>
+		</classes>
+	</test> <!-- Test -->
 
 
 
