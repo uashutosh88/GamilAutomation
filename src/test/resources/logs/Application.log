@@ -1,11 +1,11 @@
-01/12/2017 00:48:23 INFO  devpinoyLogger - Config properties loaded
-01/12/2017 00:48:23 INFO  devpinoyLogger - OR properties loaded
-01/12/2017 00:48:30 INFO  devpinoyLogger - Launching Firefox
-01/12/2017 00:48:32 INFO  devpinoyLogger - Navigating to : https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=Xe8YWoKiJpPy8AfVxIvgDg
-01/12/2017 00:48:33 INFO  devpinoyLogger - Clicking on an Element : Gmail_xpath
-01/12/2017 00:48:38 INFO  devpinoyLogger - Element found : Login_xpath
-01/12/2017 00:48:38 INFO  devpinoyLogger - Typing in an Element : Email_xpath entered the value as : kietmca14@gmail.com
-01/12/2017 00:48:39 INFO  devpinoyLogger - Clicking on an Element : NextAfterEmail_xpath
-01/12/2017 00:48:41 INFO  devpinoyLogger - Typing in an Element : Password_xpath entered the value as : 123456ABC
-01/12/2017 00:48:41 INFO  devpinoyLogger - Clicking on an Element : NextAfterPassword_xpath
-01/12/2017 00:48:47 INFO  devpinoyLogger - Test execution completed !!!
+02/12/2017 00:21:59 INFO  devpinoyLogger - Config properties loaded
+02/12/2017 00:21:59 INFO  devpinoyLogger - OR properties loaded
+02/12/2017 00:22:08 INFO  devpinoyLogger - Launching Firefox
+02/12/2017 00:22:11 INFO  devpinoyLogger - Navigating to : https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=Xe8YWoKiJpPy8AfVxIvgDg
+02/12/2017 00:22:12 INFO  devpinoyLogger - Clicking on an Element : Gmail_xpath
+02/12/2017 00:22:17 INFO  devpinoyLogger - Element found : Login_xpath
+02/12/2017 00:22:18 INFO  devpinoyLogger - Typing in an Element : Email_xpath entered the value as : kietmca14@gmail.com
+02/12/2017 00:22:18 INFO  devpinoyLogger - Clicking on an Element : NextAfterEmail_xpath
+02/12/2017 00:22:19 INFO  devpinoyLogger - Typing in an Element : Password_xpath entered the value as : 123456ABC
+02/12/2017 00:22:21 INFO  devpinoyLogger - Clicking on an Element : NextAfterPassword_xpath
+02/12/2017 00:22:27 INFO  devpinoyLogger - Test execution completed !!!

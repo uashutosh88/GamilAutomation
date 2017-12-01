@@ -14,6 +14,7 @@ public class LoginGmailTest extends TestBase {
 	click("NextAfterEmail_xpath");
 	type("Password_xpath",Password);
 	click("NextAfterPassword_xpath");
+	log.info("Login done");
 	}
 	
 	@DataProvider
